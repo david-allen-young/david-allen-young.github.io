@@ -1,1 +1,0 @@
-# david-allen-young.github.io
