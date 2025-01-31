@@ -19,7 +19,7 @@ I am a Software Development Engineer at Advanced Soundware with over 6 years of 
 
 ## EXPERIENCE
 
-### Founder and Software Development Engineer  <br>
+### Founder and Software Development Engineer
 Advanced Soundware | Culver City, California | 03/2018 - Present (6 Years) 
 
 <blockquote>
