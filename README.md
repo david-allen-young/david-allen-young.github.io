@@ -3,10 +3,8 @@ California, United States <br>
 LinkedIn: www.linkedin.com/in/david-allen-young-sde <br>
 Website: www.advancedsoundware.com <br>
 
-## Software Development Engineer <br> 
-<blockquote>
-I am a Software Development Engineer at Advanced Soundware with over 6 years of experience engineering full stack cross-platform products. I’ve largely worked on high-performance, event-driven, multi-threaded desktop applications for MacOS and Windows using C++ and SQL but consider myself a software generalist. I am a domain expert in music, audio, and video, with extensive experience in the film and television industry, including both broadcast and post-production environments, but am eager to challenge myself and dive into new industries and tech stacks.
-</blockquote>
+## Software Development Engineer
+> I am a Software Development Engineer at Advanced Soundware with over 6 years of experience engineering full stack cross-platform products. I’ve largely worked on high-performance, event-driven, multi-threaded desktop applications for MacOS and Windows using C++ and SQL but consider myself a software generalist. I am a domain expert in music, audio, and video, with extensive experience in the film and television industry, including both broadcast and post-production environments, but am eager to challenge myself and dive into new industries and tech stacks.
 
 ### SKILLS 
 
@@ -18,7 +16,6 @@ I am a Software Development Engineer at Advanced Soundware with over 6 years of 
 **Creative Tools:** Adobe Photoshop | Avid Media Composer | Avid Pro Tools | Figma  <br>
 
 ### EXPERIENCE
-
 ### Founder and Software Development Engineer
 Advanced Soundware | Culver City, California | 03/2018 - Present (6 Years) 
 
@@ -42,6 +39,5 @@ NBCUniversal | Universal City, California | 01/2011 - 03/2018 (7 Years)
 </blockquote>
 
 ### EDUCATION
-
 ### University of California at Santa Cruz <br>
 Bachelor of Arts in Music (Theory and Composition) | Dean’s Award 
