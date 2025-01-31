@@ -17,7 +17,7 @@ Website: www.advancedsoundware.com <br>
 
 ### EXPERIENCE
 
-### Founder and Software Development Engineer
+**Founder and Software Development Engineer** <br>
 Advanced Soundware | Culver City, California | 03/2018 - Present (6 Years) 
 
 <blockquote>
@@ -29,7 +29,7 @@ Advanced Soundware | Culver City, California | 03/2018 - Present (6 Years)
 </ul>
 </blockquote>
 
-### Broadcast and Post-Production Engineer  <br>
+**Broadcast and Post-Production Engineer**  <br>
 NBCUniversal | Universal City, California | 01/2011 - 03/2018 (7 Years) 
 
 <blockquote>
