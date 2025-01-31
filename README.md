@@ -1,3 +1,5 @@
+![David Allen Young](https://avatars.githubusercontent.com/u/181532024?v=4 "David Allen Young")
+
 # David Allen Young <br> 
 **Location:** California, United States <br>
 **LinkedIn:** [linkedin.com/in/david-allen-young-sde](https://linkedin.com/in/david-allen-young-sde) <br>
