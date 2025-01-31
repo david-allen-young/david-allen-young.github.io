@@ -1,7 +1,7 @@
 # David Allen Young <br> 
 California, United States <br>
-LinkedIn: www.linkedin.com/in/david-allen-young-sde <br>
-Website: www.advancedsoundware.com <br>
+**LinkedIn:** [linkedin.com/in/david-allen-young-sde](https://linkedin.com/in/david-allen-young-sde) <br>
+**Website:** [advancedsoundware.com](https://advancedsoundware.com) <br>
 
 ## Software Development Engineer
 > I am a Software Development Engineer at Advanced Soundware with over 6 years of experience engineering full stack cross-platform products. I’ve largely worked on high-performance, event-driven, multi-threaded desktop applications for MacOS and Windows using C++ and SQL but consider myself a software generalist. I am a domain expert in music, audio, and video, with extensive experience in the film and television industry, including both broadcast and post-production environments, but am eager to challenge myself and dive into new industries and tech stacks.
