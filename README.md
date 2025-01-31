@@ -16,6 +16,7 @@ Website: www.advancedsoundware.com <br>
 **Creative Tools:** Adobe Photoshop | Avid Media Composer | Avid Pro Tools | Figma  <br>
 
 ### EXPERIENCE
+
 ### Founder and Software Development Engineer
 Advanced Soundware | Culver City, California | 03/2018 - Present (6 Years) 
 
@@ -39,5 +40,6 @@ NBCUniversal | Universal City, California | 01/2011 - 03/2018 (7 Years)
 </blockquote>
 
 ### EDUCATION
+
 ### University of California at Santa Cruz <br>
 Bachelor of Arts in Music (Theory and Composition) | Dean’s Award 
