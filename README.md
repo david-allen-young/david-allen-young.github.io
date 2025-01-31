@@ -8,12 +8,12 @@
 
 ### SKILLS 
 
-**Programming Languages:** | C++ 20 | T-SQL | Python 3.1 | Ruby 3.5  <br>
-**Databases:** | Microsoft SQL Server 2022 | MySQL | SQLite  <br>
-**Frameworks:** | JUCE | music21 | Ruby on Rails | RubyGems | TensorFlow  <br>
-**Technologies:** | Git | FTP | HTML | CSS | Convolutional Neural Networks  <br>
-**Web Tools:** | WordPress | WooCommerce | Stripe | Google Cloud Platform  <br>
-**Creative Tools:** | Adobe Photoshop | Avid Media Composer | Avid Pro Tools | Figma  <br>
+**Programming Languages:** C++ 20 \| T-SQL \| Python 3.1 \| Ruby 3.5  <br>
+**Databases:** Microsoft SQL Server 2022 \| MySQL \| SQLite  <br>
+**Frameworks:** JUCE \| music21 \| Ruby on Rails \| RubyGems \| TensorFlow  <br>
+**Technologies:** Git \| FTP \| HTML \| CSS \| Convolutional Neural Networks  <br>
+**Web Tools:** WordPress \| WooCommerce \| Stripe \| Google Cloud Platform  <br>
+**Creative Tools:** Adobe Photoshop \| Avid Media Composer \| Avid Pro Tools \| Figma  <br>
 
 ### EXPERIENCE
 
