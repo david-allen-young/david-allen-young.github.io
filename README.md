@@ -1,14 +1,14 @@
-## David Allen Young <br> 
+# David Allen Young <br> 
 California, United States <br>
 LinkedIn: www.linkedin.com/in/david-allen-young-sde <br>
 Website: www.advancedsoundware.com <br>
 
-### Software Development Engineer <br> 
+## Software Development Engineer <br> 
 <blockquote>
 I am a Software Development Engineer at Advanced Soundware with over 6 years of experience engineering full stack cross-platform products. I’ve largely worked on high-performance, event-driven, multi-threaded desktop applications for MacOS and Windows using C++ and SQL but consider myself a software generalist. I am a domain expert in music, audio, and video, with extensive experience in the film and television industry, including both broadcast and post-production environments, but am eager to challenge myself and dive into new industries and tech stacks.
 </blockquote>
 
-### SKILLS 
+## SKILLS 
 
 **Programming Languages:** C++ 17 | T-SQL | Python 3.1 | Ruby 3.5  <br>
 **Databases:** Microsoft SQL Server 2022 | MySQL | SQLite  <br>
@@ -17,9 +17,9 @@ I am a Software Development Engineer at Advanced Soundware with over 6 years of 
 **Web Tools:** WordPress | WooCommerce | Stripe | Google Cloud Platform  <br>
 **Creative Tools:** Adobe Photoshop | Avid Media Composer | Avid Pro Tools | Figma  <br>
 
-### EXPERIENCE
+## EXPERIENCE
 
-#### Founder and Software Development Engineer  <br>
+### Founder and Software Development Engineer  <br>
 Advanced Soundware | Culver City, California | 03/2018 - Present (6 Years) 
 
 <blockquote>
@@ -31,7 +31,7 @@ Advanced Soundware | Culver City, California | 03/2018 - Present (6 Years)
 </ul>
 </blockquote>
 
-#### Broadcast and Post-Production Engineer  <br>
+### Broadcast and Post-Production Engineer  <br>
 NBCUniversal | Universal City, California | 01/2011 - 03/2018 (7 Years) 
 
 <blockquote>
@@ -41,7 +41,7 @@ NBCUniversal | Universal City, California | 01/2011 - 03/2018 (7 Years)
 </ul>
 </blockquote>
 
-EDUCATION
+## EDUCATION
 
 ### University of California at Santa Cruz <br>
 Bachelor of Arts in Music (Theory and Composition) | Dean’s Award 
