@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/181532024?v=4" height=125 width=125 align="left">
+<img src="https://avatars.githubusercontent.com/u/181532024?v=4" height=100 width=100 align="left">
 
 **Location:** California, United States <br>
 **LinkedIn:** [linkedin.com/in/david-allen-young-sde](https://linkedin.com/in/david-allen-young-sde) <br>
