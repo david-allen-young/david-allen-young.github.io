@@ -41,5 +41,5 @@ NBCUniversal | Universal City, California | 01/2011 - 03/2018 (7 Years)
 
 ### EDUCATION
 
-### University of California at Santa Cruz <br>
+**University of California at Santa Cruz** <br>
 Bachelor of Arts in Music (Theory and Composition) | Dean’s Award 
