@@ -1,6 +1,5 @@
-<img src="https://avatars.githubusercontent.com/u/181532024?v=4" height=150 width=150 align="left">
+<img src="https://avatars.githubusercontent.com/u/181532024?v=4" height=160 width=160 align="left">
 
-## David Allen Young <br> 
 **Location:** California, United States <br>
 **LinkedIn:** [linkedin.com/in/david-allen-young-sde](https://linkedin.com/in/david-allen-young-sde) <br>
 **Website:** [advancedsoundware.com](https://advancedsoundware.com) <br>
