@@ -1,5 +1,5 @@
 # David Allen Young <br> 
-California, United States <br>
+**Location:** California, United States <br>
 **LinkedIn:** [linkedin.com/in/david-allen-young-sde](https://linkedin.com/in/david-allen-young-sde) <br>
 **Website:** [advancedsoundware.com](https://advancedsoundware.com) <br>
 
