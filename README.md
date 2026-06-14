@@ -2,7 +2,6 @@
 
 **Location:** California, United States <br>
 **LinkedIn:** [linkedin.com/in/david-allen-young-sde](https://linkedin.com/in/david-allen-young-sde) <br>
-**Website:** [advancedsoundware.com](https://advancedsoundware.com) <br>
 
 ## Software Engineer for Audio, Music Technology, and Creative Tools
 
@@ -38,6 +37,9 @@ A demonstration project exploring the integration of a modern web-based user int
 The project investigates architecture patterns for combining browser technologies with native audio processing, including real-time parameter control, metering, and communication between UI and DSP layers.
 
 **Technologies:** C++, JUCE, TypeScript, JavaScript
+
+Live Demo:
+[multiband-compressor.vercel.app](https://multiband-compressor.vercel.app/)
 
 Repository:
 https://github.com/david-allen-young/juce-web-compressor
