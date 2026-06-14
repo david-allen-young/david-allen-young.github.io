@@ -4,43 +4,81 @@
 **LinkedIn:** [linkedin.com/in/david-allen-young-sde](https://linkedin.com/in/david-allen-young-sde) <br>
 **Website:** [advancedsoundware.com](https://advancedsoundware.com) <br>
 
-## Software Development Engineer
-> I am a Software Development Engineer at Advanced Soundware with over 6 years of experience engineering full stack cross-platform products. I’ve largely worked on high-performance, event-driven, multi-threaded desktop applications for MacOS and Windows using C++ and SQL but consider myself a software generalist. I am a domain expert in music, audio, and video, with extensive experience in the film and television industry, including both broadcast and post-production environments, but am eager to challenge myself and dive into new industries and tech stacks.
+## Software Engineer for Audio, Music Technology, and Creative Tools
 
-### SKILLS 
+I build digital audio software, creative tools, and performance-sensitive applications that balance responsiveness, reliability, and musical feel.
 
-**Programming Languages:** C++ 20 \| T-SQL \| Python 3.1 \| Ruby 3.5  <br>
-**Databases:** Microsoft SQL Server 2022 \| MySQL \| SQLite  <br>
-**Frameworks:** JUCE \| music21 \| Ruby on Rails \| RubyGems \| TensorFlow  <br>
-**Technologies:** Git \| FTP \| HTML \| CSS \| Convolutional Neural Networks  <br>
-**Web Tools:** WordPress \| WooCommerce \| Stripe \| Google Cloud Platform  <br>
-**Creative Tools:** Adobe Photoshop \| Avid Media Composer \| Avid Pro Tools \| Figma  <br>
+My work spans C++ audio systems, TypeScript/JavaScript web applications, desktop software, and music technology. I enjoy building tools that combine modern user experiences with real-time, timing-critical backends.
 
-### EXPERIENCE
+Currently, I develop audio tools at Sigma Connectivity, creating high-performance web interfaces embedded within C++ desktop applications and contributing to the modernization of complex audio workflows.
 
-**Founder and Software Development Engineer** <br>
-Advanced Soundware | Culver City, California | 03/2018 - Present (6 Years) 
+Outside of engineering, I compose, record, and mix orchestral music. That perspective continually shapes how I think about software design, usability, and creative workflows.
 
-<blockquote>
-<ul>
-<li>Designed a music-notation-to-audio-sample indexing system that allowed our products to render from a large audio sample database with a memory footprint exponentially smaller than our competitors.</li>
-<li>Engineered early prototypes and secured $2M in funding.</li>
-<li>Helped solve complex concurrency and data-scaling problems.</li>
-<li>Successfully led a cross-functional team to product launch.</li>
-</ul>
-</blockquote>
+---
 
-**Broadcast and Post-Production Engineer**  <br>
-NBCUniversal | Universal City, California | 01/2011 - 03/2018 (7 Years) 
+## Focus Areas
 
-<blockquote>
-<ul>
-<li>Installed, configured, and supported extensive audio and video post-production facilities.</li>
-<li>Increased workflow efficiency and delivered system uptime of 99% even during peak usage.</li>
-</ul>
-</blockquote>
+* Audio software and music technology
+* C++ and JUCE application development
+* TypeScript and JavaScript web applications
+* Real-time and performance-sensitive systems
+* DSP workflows and audio tooling
+* Music notation and MusicXML
+* Expressive performance systems
+* AI-assisted creative workflows
 
-### EDUCATION
+---
 
-**University of California at Santa Cruz** <br>
-Bachelor of Arts in Music (Theory and Composition) | Dean’s Award 
+## Featured Project
+
+### Web-Based Multiband Compressor Demo
+
+A demonstration project exploring the integration of a modern web-based user interface with a JUCE-powered C++ audio engine.
+
+The project investigates architecture patterns for combining browser technologies with native audio processing, including real-time parameter control, metering, and communication between UI and DSP layers.
+
+**Technologies:** C++, JUCE, TypeScript, JavaScript
+
+Repository:
+https://github.com/david-allen-young/juce-web-compressor
+
+---
+
+## Current Explorations
+
+### Expressive Performance Systems
+
+Exploring techniques for transforming notation-oriented musical data into more natural and expressive performances through timing, dynamics, articulation, and phrasing.
+
+### Music Notation Editing
+
+Investigating lightweight approaches to MusicXML editing and notation workflows with an emphasis on direct manipulation, responsiveness, and efficient rendering.
+
+### AI-Assisted Music Technology
+
+Researching how modern AI systems can support composition, notation, performance preparation, and creative workflows while preserving musician control and intent.
+
+---
+
+## Professional Experience
+
+### Sigma Connectivity
+
+**Audio Tools Software Engineer**
+
+Developing audio tooling for desktop environments, including web-based interfaces embedded within C++ applications. Contributing to shared UI systems, application architecture, and modernization efforts for complex audio workflows.
+
+### Advanced Soundware
+
+**Founder & Software Engineer**
+
+Designed and developed music software products focused on expressive musical control, responsive interaction, and desktop audio application development.
+
+### NBCUniversal
+
+**Broadcast & Post-Production Systems**
+
+Supported uptime-critical broadcast and post-production environments, building a strong foundation in reliability, operational rigor, and production-focused engineering.
+
+
+
