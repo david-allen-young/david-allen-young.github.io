@@ -66,19 +66,19 @@ Researching how modern AI systems can support composition, notation, performance
 
 **Audio Tools Software Engineer**
 
-Developing audio tooling for desktop environments, including web-based interfaces embedded within C++ applications. Contributing to shared UI systems, application architecture, and modernization efforts for complex audio workflows.
+Developing audio tooling for desktop environments, including modern web interfaces embedded within C++ applications. Contributing to shared UI systems, application architecture, and modernization efforts for complex audio workflows.
 
 ### Advanced Soundware
 
 **Founder & Software Engineer**
 
-Designed and developed music software products focused on expressive musical control, responsive interaction, and desktop audio application development.
+Developed music technology products focused on transforming notation and MIDI-based musical intent into expressive performances. Worked across software architecture, audio engine development, and product delivery from early prototypes through commercial release.
 
 ### NBCUniversal
 
 **Broadcast & Post-Production Systems**
 
-Supported uptime-critical broadcast and post-production environments, building a strong foundation in reliability, operational rigor, and production-focused engineering.
+Supported uptime-critical broadcast and post-production environments, maintaining systems relied upon by content creators and production teams. Built a strong foundation in reliability, operational rigor, and production-focused engineering.
 
 
 
