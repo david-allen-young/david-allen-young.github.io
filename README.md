@@ -40,7 +40,7 @@ The project investigates architecture patterns for combining browser technologie
 **Technologies:** C++, JUCE, TypeScript, JavaScript
 
 Live Demo: [multiband-compressor.vercel.app](https://multiband-compressor.vercel.app/)
-Repository: https://github.com/david-allen-young/juce-web-compressor
+Repository: [github.com/david-allen-young/juce-web-compressor](https://github.com/david-allen-young/juce-web-compressor)
 
 ---
 
