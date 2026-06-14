@@ -2,6 +2,7 @@
 
 **Location:** California, United States <br>
 **LinkedIn:** [linkedin.com/in/david-allen-young-sde](https://linkedin.com/in/david-allen-young-sde) <br>
+**GitHub:** [github.com/david-allen-young](https://github.com/david-allen-young) <br>
 
 ## Software Engineer for Audio, Music Technology, and Creative Tools
 
@@ -38,11 +39,8 @@ The project investigates architecture patterns for combining browser technologie
 
 **Technologies:** C++, JUCE, TypeScript, JavaScript
 
-Live Demo:
-[multiband-compressor.vercel.app](https://multiband-compressor.vercel.app/)
-
-Repository:
-https://github.com/david-allen-young/juce-web-compressor
+Live Demo: [multiband-compressor.vercel.app](https://multiband-compressor.vercel.app/)
+Repository: https://github.com/david-allen-young/juce-web-compressor
 
 ---
 
